@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=urRVZ4SW7WU&t=119s
 
 # Introduction
 L'instalation interactive sera une immersion d'escalade interactive avec le grimpeur pour simuler certain passsage du film.
-
+(explication des 2 type descalade)
 
 (developpement
 
@@ -24,3 +24,5 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
 | ----------- | ----------- |
 | ![le moonboard](media/tension-board.jpg) |![le moonboard](media/tension-boardapp.png) |
 | Mur d'escalade standardisé avec reglage d'angle  | application avec base de donné pour voie d'escalade  |
+
+
