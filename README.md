@@ -22,5 +22,5 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
 
 | le moonboard |  L'application |
 | ----------- | ----------- |
-| ![le moonboard](media/tension-board.jpg) |![le moonboard](media/tension-boardApp.jpg) |
+| ![le moonboard](media/tension-board.jpg) |![le moonboard](media/tension-boardapp.jpg) |
 | Mur d'escalade standardisé avec reglage d'angle  | application avec base de donné pour voie d'escalade  |
