@@ -19,6 +19,6 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
 # Les technologie qui existent déja en terme d'escalade interactive
   
   ### Le Moonboard
-  ![le moonboard](media/tension-board.jpg)
-      
-
+  
+| ![le moonboard](media/tension-board.jpg) | Mur d'escalade standardisé avec reglage d'angle |
+| ![le moonboard](media/tension-boardApp.jpg)  | application avec base de donné pour voie d'escalade  |
