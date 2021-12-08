@@ -12,8 +12,8 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
 
 (developpement
 
-1. techno qui existent deja pour créé le mur (moon board) + defi technique pour le mur(mur transparent)
-2. autre composant immersif pour augmenter la sensation vent, son
+1. techno qui existent deja pour créé le mur (moon board) 
+2. autre composant immersif pour augmenter la sensation vent, son, image/projection
 3. ce qui pourraitr ressembler au résultas final (maquette)
 
 # Les technologie qui existent déja en terme d'escalade interactive
@@ -24,5 +24,12 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
 | ----------- | ----------- |
 | ![le moonboard](media/tension-board.jpg) |![le moonboard](media/tension-boardapp.png) |
 | Mur d'escalade standardisé avec reglage d'angle  | application avec base de donné pour voie d'escalade  |
+
+### Composant intéressant a propos de celui-ci
+1. peut être controler à partir d'un téléphone en bluetooth a partir de l'application
+2. réglage d'inclinaison déja intégré à la structure
+3. relativement compact comparé à un vrai mur d'escalade
+
+
 
 
