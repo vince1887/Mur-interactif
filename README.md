@@ -26,10 +26,13 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
 | Mur d'escalade standardisé avec reglage d'angle  | application avec base de donné pour voie d'escalade  |
 
 ### Composant intéressant a propos de celui-ci
-1. peut être controler à partir d'un téléphone en bluetooth a partir de l'application
+1. peut être controler à partir d'un téléphone par connexion bluetooth avec l'application supporté par le mur
 2. réglage d'inclinaison déja intégré à la structure
 3. relativement compact comparé à un vrai mur d'escalade
 
 
+
+#bibliographie
+https://www.rtflash.fr/spinel-nouveau-materiau-transparent-plus-dur-que-l-acier/article
 
 
