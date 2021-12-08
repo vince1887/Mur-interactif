@@ -35,7 +35,7 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
 
 
 
-#bibliographie
+# bibliographie
 https://www.rtflash.fr/spinel-nouveau-materiau-transparent-plus-dur-que-l-acier/article
 
 
