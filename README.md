@@ -41,6 +41,12 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
 | ![gopro](media/ts_209.jpg) |![zoom](media/zoom.jpg) |
 | Puisque ce sont des conditions dificile pour capter des images, les Gopros offrent un format compact  | Pour la même raison le Zoom H4N est petit et avec les conditions il sera idéal.  |
 
+### Projection sur les murs, le plafond et le plancher
+  Suite à la captation des different médias, pour les prejeter il devra y avoir 6 projecteurs pour projeter sur les 4 murs ainsi que sur le plafond et le plancher.
+  
+ ### Projection sur le mur d'escalade
+ Comparé aux projections sur les murs, la projection sur la paroie d'escalade à un défi de plus. Puisqu'un participant va grimper sur le mur le projecteur doit provenir du dos de la paroie pour ne pas créer d'ombrage et briser l'immersion du participant. Pour parvenir à ceci il existe un matériel nommé le spinel.
+ ![le moonboard](media/tension-board.jpg)
 # bibliographie
 https://www.rtflash.fr/spinel-nouveau-materiau-transparent-plus-dur-que-l-acier/article
 
