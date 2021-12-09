@@ -9,11 +9,7 @@ https://user-images.githubusercontent.com/93718079/145319285-3202263e-dbae-4633-
 
 # Introduction
 L'instalation interactive sera une immersion d'escalade interactive avec le grimpeur pour simuler certain passsage du film.
-(explication des 2 
-
-
-
-type descalade)
+(explication des 2 type descalade)
 
 (developpement
 
@@ -36,9 +32,8 @@ type descalade)
 3. relativement compact comparé à un vrai mur d'escalade
 4. permet de grimper sans harnais pour recréer l'aspect de ne pas être attacher comme dans le film
 
-## Les autres composants (son et image)
-
-
+## Les autres composants (son et image et projection)
+  Pour projeter les images il faut commencer par les capter. Donc il sera necessaire d'avoir une équipe sur le terrain avec de l'equipement pour capter des videos en 360 des lieux. Cette equipe pourra aussi enregistrer des son ambiant.
 
 # bibliographie
 https://www.rtflash.fr/spinel-nouveau-materiau-transparent-plus-dur-que-l-acier/article
