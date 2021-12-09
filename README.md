@@ -45,8 +45,12 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
   Suite à la captation des different médias, pour les prejeter il devra y avoir 6 projecteurs pour projeter sur les 4 murs ainsi que sur le plafond et le plancher.
   
  ### Projection sur le mur d'escalade
- Comparé aux projections sur les murs, la projection sur la paroie d'escalade à un défi de plus. Puisqu'un participant va grimper sur le mur le projecteur doit provenir du dos de la paroie pour ne pas créer d'ombrage et briser l'immersion du participant. Pour parvenir à ceci il existe un matériel nommé le spinel.
+ Comparé aux projections sur les murs, la projection sur la paroie d'escalade à un défi de plus. Puisqu'un participant va grimper sur le mur le projecteur doit provenir du dos de la paroie pour ne pas créer d'ombrage et briser l'immersion du participant. Pour parvenir à ceci il existe un matériel nommé le spinel. Il est tranparent dont en lui ajoutant une pelicule pour le rendre plus opaque il va pouvoir reflecter l'image du projecteur au participant sans être altérer par le partcipant.
+ 
+ 
  ![le spinel](media/spinel_le_nouveau_materiau_transparent_plus_dur_que_lacier.jpg)
+ 
+ le spinel est considéré plus solide que l'acier et est utilisé par l'armée américaine pour les armure léger.
  
 # bibliographie
 https://www.rtflash.fr/spinel-nouveau-materiau-transparent-plus-dur-que-l-acier/article
