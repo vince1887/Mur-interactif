@@ -53,8 +53,9 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
  le spinel est considéré plus solide que l'acier et est utilisé par l'armée américaine pour les armure léger.
  
  ## Maquette de l'instalation
+  ![le spinel](media/maquette.png)
  
- 
+
 # bibliographie
 https://www.rtflash.fr/spinel-nouveau-materiau-transparent-plus-dur-que-l-acier/article
 
