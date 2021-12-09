@@ -8,13 +8,11 @@ https://user-images.githubusercontent.com/93718079/145319285-3202263e-dbae-4633-
 
 
 # Introduction
-L'instalation interactive sera une immersion d'escalade interactive avec le grimpeur pour simuler certain passsage du film.
-(explication des 2 type descalade)
+Pour parvenir a cela je vais créer un experience immersive qui stimulera le participant avec de l'activité physique, avec des projections et des sons ambiants.
 
-(developpement
 
 1. techno qui existent deja pour créé le mur (moon board) 
-2. autre composant immersif pour augmenter la sensation vent, son, image/projection
+2. autre composant immersif pour augmenter la sensation, son, image/projection
 3. ce qui pourraitr ressembler au résultas final (maquette)
 
 # Les technologie qui existent déja en terme d'escalade interactive
