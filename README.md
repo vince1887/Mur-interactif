@@ -8,7 +8,11 @@ https://www.youtube.com/watch?v=urRVZ4SW7WU&t=119s
 
 # Introduction
 L'instalation interactive sera une immersion d'escalade interactive avec le grimpeur pour simuler certain passsage du film.
-(explication des 2 type descalade)
+(explication des 2 
+
+https://user-images.githubusercontent.com/93718079/145319285-3202263e-dbae-4633-8841-23feb78d1100.mp4
+
+type descalade)
 
 (developpement
 
