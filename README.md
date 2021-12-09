@@ -38,7 +38,7 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
    
  | Assamblage de Gopro |  zoom H4N |
 | ----------- | ----------- |
-| ![gopro](media/ts_209.jpg) |![zoom](media/![le moonboard](media/zoom.jpg) |
+| ![gopro](media/ts_209.jpg) |![zoom](media/(media/zoom.jpg) |
 | Mur d'escalade standardisé avec reglage d'angle  | application avec base de donné pour voie d'escalade  |
 
 # bibliographie
