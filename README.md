@@ -33,7 +33,7 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
 4. permet de grimper sans harnais pour recréer l'aspect de ne pas être attacher comme dans le film
 
 ## Les autres composants (son et image et projection)
-  Pour projeter les images il faut commencer par les capter. Donc il sera necessaire d'avoir une équipe sur le terrain avec de l'equipement pour capter des videos en 360 des       lieux. Cette equipe pourra aussi enregistrer des son ambiant.
+  Pour projeter les images il faut commencer par les capter. Donc il sera necessaire d'avoir une équipe sur le terrain avec de l'equipement pour capter des videos en 360 des       lieux. Cette equipe va aussi devoir enregistrer des son ambiant.
   
    
  | Assamblage de Gopro |  zoom H4N |
