@@ -46,7 +46,8 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
   
  ### Projection sur le mur d'escalade
  Comparé aux projections sur les murs, la projection sur la paroie d'escalade à un défi de plus. Puisqu'un participant va grimper sur le mur le projecteur doit provenir du dos de la paroie pour ne pas créer d'ombrage et briser l'immersion du participant. Pour parvenir à ceci il existe un matériel nommé le spinel.
- ![le moonboard](media/tension-board.jpg)
+ ![le spinel](media/spinel_le_nouveau_materiau_transparent_plus_dur_que_lacier.jpg)
+ 
 # bibliographie
 https://www.rtflash.fr/spinel-nouveau-materiau-transparent-plus-dur-que-l-acier/article
 
