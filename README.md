@@ -1,7 +1,7 @@
 # Mur-interactif
 
 # Mise en context
-> Dans le cadre du lancement d'un  nouveau filme intitulé "Free Solo" produit par Netflix, j'ai comme mission de créé une instalation interactive qui aura pour but d'immerger
+> Dans le cadre du lancement d'un  nouveau filme intitulé "Free Solo" produit par Netflix, je doid créé une instalation interactive qui aura pour but d'immerger
 > le participant dans l'univers du film.
 
 https://user-images.githubusercontent.com/93718079/145319285-3202263e-dbae-4633-8841-23feb78d1100.mp4
