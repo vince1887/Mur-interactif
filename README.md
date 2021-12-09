@@ -39,7 +39,7 @@ L'instalation interactive sera une immersion d'escalade interactive avec le grim
  | Assamblage de Gopro |  zoom H4N |
 | ----------- | ----------- |
 | ![gopro](media/ts_209.jpg) |![zoom](media/zoom.jpg) |
-| Mur d'escalade standardisé avec reglage d'angle  | application avec base de donné pour voie d'escalade  |
+| Puisque ce sont des conditions dificile pour capter des images, les Gopros offrent un format compact  | Pour la même raison le Zoom H4N est petit et avec les conditions il sera idéal.  |
 
 # bibliographie
 https://www.rtflash.fr/spinel-nouveau-materiau-transparent-plus-dur-que-l-acier/article
